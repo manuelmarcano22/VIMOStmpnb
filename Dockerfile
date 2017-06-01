@@ -50,12 +50,6 @@ ENV PATH /opt/conda/bin:$PATH
 ##Install
 ENV PATH /opt/conda/bin:$PATH
 
-#DS9
-RUN wget http://ds9.si.edu/download/centos7/ds9.centos7.7.5.tar.gz  && tar -zxvf ds9.centos7.7.5.tar.gz && rm ds9.centos7.7.5.tar.gz
-
-RUN mv ds9 /usr/bin
-
-
 RUN wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-9.noarch.rpm
 RUN rpm -ivh epel-release-7-9.noarch.rpm
 
@@ -67,20 +61,11 @@ WORKDIR "/root"
 #RUN /opt/conda/bin/conda create -y -n iraf27 python=2.7 iraf pyraf Flask bokeh
 ADD environmentpyraf.yml	      /root/
 RUN conda env create -f environmentpyraf.yml
-ADD login.cl /root/login.cl
-#ADD jupyter_notebook_config.py /root/.jupyter/
-#RUN /opt/conda/envs/iraf27/bin/mkiraf
-
-
-#RUN echo '#!/bin/bash' > clonerepo.sh && chmod +x clonerepo.sh
-#RUN echo 'git clone https://github.com/manuelmarcano22/VIMOSReduced.git .' >> clonerepo.sh
-RUN git clone https://github.com/manuelmarcano22/VIMOSReduced.git
-ADD downloadfitsdocker.sh /root/downloadfitsdocker.sh
-RUN /bin/bash /root/downloadfitsdocker.sh
+ADD VIMOSReduced /root/VIMOSReduced/
 
 
 # Add Tini. Tini operates as a process subreaper for jupyter. This prevents
-# kernel crashes.
+# kernel crashes. Still haven't implemented
 ENV TINI_VERSION v0.6.0
 ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /usr/bin/tini
 RUN chmod +x /usr/bin/tini
@@ -88,6 +73,3 @@ RUN chmod +x /usr/bin/tini
 
 
 EXPOSE  80 8080 8888
-#ADD start.sh /root/start.sh
-#RUN chmod +x start.sh
-#CMD ["/bin/bash", "start.sh"]

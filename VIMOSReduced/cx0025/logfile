@@ -1,0 +1,130 @@
+Dec 30 15:42: FIND - 5 apertures found for VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi
+Dec 30 15:42: RESIZE - 5 apertures resized for VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi
+Dec 30 15:42: DATABASE - 5 apertures for VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi written to database
+Dec 30 15:42: EXTRACT - Aperture 1 from VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi --> VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.ec
+Dec 30 15:42: EXTRACT - Aperture 2 from VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi --> VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.ec
+Dec 30 15:42: EXTRACT - Aperture 3 from VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi --> VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.ec
+Dec 30 15:42: EXTRACT - Aperture 4 from VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi --> VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.ec
+Dec 30 15:42: EXTRACT - Aperture 5 from VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi --> VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.ec
+Dec 30 17:15: DATABASE  - 5 apertures read for VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi from database
+Dec 30 17:15: RECENTER  - 5 apertures shifted by 0.00 for VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.
+Dec 30 17:15: RESIZE - 5 apertures resized for VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi
+Dec 30 17:15: TRACE - Trace of aperture 1 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 188.
+Dec 30 17:15: TRACE - Trace of aperture 2 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 188.
+Dec 30 17:15: TRACE - Trace of aperture 4 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 188.
+Dec 30 17:15: TRACE - Trace of aperture 1 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi recovered at line 198.
+Dec 30 17:15: TRACE - Trace of aperture 2 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 198.
+Dec 30 17:15: TRACE - Trace of aperture 3 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 198.
+Dec 30 17:15: TRACE - Trace of aperture 4 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi recovered at line 198.
+Dec 30 17:15: TRACE - Trace of aperture 2 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi recovered at line 208.
+Dec 30 17:15: TRACE - Trace of aperture 3 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi recovered at line 208.
+Dec 30 17:15: TRACE - Trace of aperture 2 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 228.
+Dec 30 17:15: TRACE - Trace of aperture 2 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi recovered at line 238.
+Dec 30 17:15: TRACE - Trace of aperture 2 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 258.
+Dec 30 17:15: TRACE - Trace of aperture 1 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 268.
+Dec 30 17:15: TRACE - Trace of aperture 2 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi recovered at line 268.
+Dec 30 17:15: TRACE - Trace of aperture 3 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 268.
+Dec 30 17:15: TRACE - Trace of aperture 1 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 28.
+Dec 30 17:15: TRACE - Trace of aperture 3 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 28.
+Dec 30 17:15: TRACE - Trace of aperture 4 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 28.
+Dec 30 17:15: TRACE - Trace of aperture 5 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 28.
+Dec 30 17:15: TRACE - Trace of aperture 1 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 18.
+Dec 30 17:15: TRACE - Trace of aperture 3 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi recovered at line 18.
+Dec 30 17:15: TRACE - Trace of aperture 4 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi recovered at line 18.
+Dec 30 17:15: TRACE - Trace of aperture 5 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 18.
+Dec 30 17:15: TRACE - Trace of aperture 1 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 8.
+Dec 30 17:15: TRACE - Trace of aperture 3 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 8.
+Dec 30 17:15: TRACE - Trace of aperture 5 in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi lost at line 8.
+Dec 30 17:15: TRACE - 5 apertures traced in VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.
+Dec 30 17:15: DATABASE - 5 apertures for VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi written to database
+Dec 30 17:15: EXTRACT - Aperture 1 from VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi --> VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.ms
+Dec 30 17:15: EXTRACT - Aperture 2 from VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi --> VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.ms
+Dec 30 17:15: EXTRACT - Aperture 3 from VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi --> VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.ms
+Dec 30 17:15: EXTRACT - Aperture 4 from VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi --> VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.ms
+Dec 30 17:15: EXTRACT - Aperture 5 from VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi --> VI_SSEM_577734_2011-06-24T05:56:42.518_G475_MR_402230_Q4_hi.ms
+Jan  2 17:29: DATABASE  - 1 apertures read for new from database
+Jan  2 17:29: RECENTER  - 1 apertures shifted by -0.02 for new.
+Jan  2 17:29: APRESIZE  - 1 apertures resized for new (-3.87, 5.31)
+Jan  2 17:29: EDIT - 1 apertures edited for new
+Jan  2 17:30: DATABASE  - 1 apertures read for new from database
+Jan  2 17:30: RECENTER  - 1 apertures shifted by -0.02 for new.
+Jan  2 17:30: APRESIZE  - 1 apertures resized for new (-3.87, 5.31)
+Jan  2 17:34: DATABASE  - 1 apertures read for new from database
+Jan  2 17:34: RECENTER  - 1 apertures shifted by -0.02 for new.
+Jan  2 17:34: APRESIZE  - 1 apertures resized for new (-3.87, 5.31)
+Jan  2 17:42: DATABASE  - 1 apertures read for new from database
+Jan  2 17:42: RECENTER  - 1 apertures shifted by INDEF for new.
+Jan  2 17:42: APRESIZE  - 1 apertures resized for new (-11.67, 37.22)
+Jan  2 17:42: TRACE - Trace of aperture 1 in new lost at column 1249.
+Jan  2 17:42: TRACE - Trace of aperture 1 in new lost at column 1259.
+Jan  2 17:42: TRACE - Trace of aperture 1 in new lost at column 1269.
+Jan  2 17:42: TRACE - Trace of aperture 1 in new lost at column 1231.
+Jan  2 17:42: TRACE - Trace of aperture 1 in new lost at column 1221.
+Jan  2 17:42: TRACE - Trace of aperture 1 in new lost at column 1211.
+Jan  2 17:42: TRACE - 1 apertures traced in new.
+Jan  2 17:42: DATABASE - 1 apertures for new written to database
+Jan  2 17:42: EXTRACT - Aperture 1 from new --> new.ms2
+Jan  2 17:43: DATABASE  - 1 apertures read for new from database
+Jan  2 17:43: EXTRACT - Output spectrum new.ms2 already exists
+Jan  2 17:44: DATABASE  - 1 apertures read for new from database
+Jan  2 17:44: EXTRACT - Aperture 1 from new --> new.ms2
+
+SFIT: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Fri 20:32:59 26-May-2017
+
+
+END: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Fri 20:32:59 26-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Fri 22:55:10 26-May-2017
+
+
+END: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Fri 22:55:10 26-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Fri 23:00:50 26-May-2017
+
+
+END: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Fri 23:00:50 26-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Fri 23:08:24 26-May-2017
+
+
+END: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Fri 23:08:24 26-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Tue 20:00:21 30-May-2017
+
+
+END: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Tue 20:00:21 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Tue 20:09:43 30-May-2017
+
+
+END: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Tue 20:09:43 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Tue 20:14:07 30-May-2017
+
+
+END: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Tue 20:14:07 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Tue 20:17:17 30-May-2017
+
+
+END: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Tue 20:17:17 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Wed 13:57:15 31-May-2017
+
+
+END: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Wed 13:57:15 31-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Wed 13:57:16 31-May-2017
+
+
+END: NOAO/IRAF V2.16 @marcanoserver-sfo2-01 Wed 13:57:16 31-May-2017
+
