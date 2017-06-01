@@ -1,7 +1,6 @@
 docker stop $(docker ps -a -q)
 docker rm $(docker ps -a -q)
 docker pull jupyter/tmpnb
-docker pull roguelynn/scapy-tmpnb
 docker build -f Dockerfile -t trytemp .
 export TOKEN=$( head -c 30 /dev/urandom | xxd -p )
 docker run --net=host -d -e CONFIGPROXY_AUTH_TOKEN=$TOKEN --name=proxy jupyter/configurable-http-proxy --default-target http://127.0.0.1:9999
