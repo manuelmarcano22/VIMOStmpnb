@@ -1,0 +1,240 @@
+# Sat 23:06:43 21-Jan-2017
+begin	aperture copy_mos_science_sky_extracted_Q3 1 1250. 16.10191
+	image	copy_mos_science_sky_extracted_Q3
+	aperture	1
+	beam	1
+	center	1250. 16.10191
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	26
+		2.
+		22.
+		10.
+		2500.
+		0.1842017
+		-0.3966843
+		0.2454635
+		-0.03394233
+		-0.408463
+		0.4101116
+		0.02101725
+		-0.3562762
+		0.2723117
+		0.05926379
+		-0.287057
+		0.1920482
+		0.08386342
+		-0.2531589
+		0.113789
+		0.1423445
+		-0.2645585
+		0.09824344
+		0.1169024
+		-0.1997608
+		0.05348475
+		0.1273971
+
+# Sat 23:06:43 21-Jan-2017
+begin	aperture copy_mos_science_sky_extracted_Q3 2 1250. 48.08994
+	image	copy_mos_science_sky_extracted_Q3
+	aperture	2
+	beam	2
+	center	1250. 48.08994
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	26
+		2.
+		22.
+		10.
+		2500.
+		0.2382414
+		-0.5157038
+		0.1472658
+		0.2814116
+		-0.4340653
+		0.1126392
+		0.3574756
+		-0.351036
+		-0.07206469
+		0.3922189
+		-0.2064966
+		-0.2481217
+		0.3297948
+		0.05962839
+		-0.3149699
+		0.2163179
+		0.1291142
+		-0.3043612
+		0.1273307
+		0.2097528
+		-0.2336408
+		-0.06473901
+
+# Sat 23:06:43 21-Jan-2017
+begin	aperture copy_mos_science_sky_extracted_Q3 3 1250. 123.8048
+	image	copy_mos_science_sky_extracted_Q3
+	aperture	3
+	beam	3
+	center	1250. 123.8048
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	26
+		2.
+		22.
+		10.
+		2500.
+		0.2776045
+		-0.4096054
+		0.6361626
+		-0.3946963
+		-0.08234187
+		0.3705447
+		-0.3321345
+		0.07700858
+		0.1824927
+		-0.3581948
+		0.2947742
+		-0.04802694
+		-0.2147958
+		0.2866254
+		-0.1684629
+		-0.06443684
+		0.2301458
+		-0.2338448
+		0.08103839
+		0.09634543
+		-0.2160866
+		0.1613257
+
+# Sat 23:06:43 21-Jan-2017
+begin	aperture copy_mos_science_sky_extracted_Q3 4 1250. 128.9408
+	image	copy_mos_science_sky_extracted_Q3
+	aperture	4
+	beam	4
+	center	1250. 128.9408
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	26
+		2.
+		22.
+		10.
+		2500.
+		-0.8062486
+		2.041378
+		-1.762941
+		0.7741657
+		0.4863387
+		-1.076788
+		0.7416877
+		-0.0317176
+		-0.6717106
+		0.7403737
+		-0.2127602
+		-0.4188804
+		0.6866929
+		-0.4011765
+		-0.246079
+		0.5921824
+		-0.588747
+		0.09536355
+		0.4431905
+		-0.5879841
+		0.2474474
+		0.2555291
+
+# Sat 23:06:43 21-Jan-2017
+begin	aperture copy_mos_science_sky_extracted_Q3 5 1250. 184.6358
+	image	copy_mos_science_sky_extracted_Q3
+	aperture	5
+	beam	5
+	center	1250. 184.6358
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	26
+		2.
+		22.
+		10.
+		1920.
+		0.5507547
+		-1.055084
+		0.3477152
+		0.4317367
+		-0.4346062
+		-0.1916034
+		0.3870701
+		-0.05645459
+		-0.4460813
+		0.1722072
+		0.2420556
+		-0.2271823
+		-0.034191
+		0.2647533
+		0.07043076
+		-0.2815175
+		0.1110855
+		0.1799179
+		-0.2922619
+		-0.1247833
+		0.1322867
+		0.03170265
+

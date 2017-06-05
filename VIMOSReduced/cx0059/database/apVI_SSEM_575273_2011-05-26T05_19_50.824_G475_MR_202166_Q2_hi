@@ -1,0 +1,140 @@
+# Fri 01:24:30 30-Dec-2016
+begin	aperture VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi 1 1864.452 220.
+	image	VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi
+	aperture	1
+	beam	1
+	center	1864.452 220.
+	low	-4.169117 -219.
+	high	6.42755 220.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	6
+		2.
+		2.
+		10.
+		440.
+		-0.1345548
+		-0.01124674
+
+# Fri 01:24:30 30-Dec-2016
+begin	aperture VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi 2 2050.109 220.
+	image	VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi
+	aperture	2
+	beam	2
+	center	2050.109 220.
+	low	-3.983956 -219.
+	high	5.369366 220.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	6
+		2.
+		2.
+		10.
+		440.
+		-0.1915894
+		-0.01049918
+
+# Fri 01:24:30 30-Dec-2016
+begin	aperture VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi 3 2085.061 220.
+	image	VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi
+	aperture	3
+	beam	3
+	center	2085.061 220.
+	low	-2.968945 -219.
+	high	3.170693 220.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	6
+		2.
+		2.
+		10.
+		440.
+		-0.1244063
+		0.03704759
+
+# Fri 01:24:30 30-Dec-2016
+begin	aperture VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi 4 2235.475 220.
+	image	VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi
+	aperture	4
+	beam	4
+	center	2235.475 220.
+	low	-3.799615 -219.
+	high	1.400586 220.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	6
+		2.
+		2.
+		10.
+		440.
+		-0.009077593
+		-0.0141461
+
+# Fri 01:24:30 30-Dec-2016
+begin	aperture VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi 5 2260.617 220.
+	image	VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi
+	aperture	5
+	beam	5
+	center	2260.617 220.
+	low	-3.432284 -219.
+	high	5.584351 220.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	1
+	curve	6
+		2.
+		2.
+		10.
+		440.
+		-0.07829701
+		0.02242284
+

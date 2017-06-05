@@ -1,5 +1,7 @@
-docker stop $(docker ps -a -q)
-docker rm $(docker ps -a -q)
+#First remove all containers base on the trytemp image
+docker stop $(docker ps -af ancestor=trytemp -q );  docker rm $(docker ps -af ancestor=trytemp -q )
+docker stop $(docker ps -af name=proxy -q) ; docker rm $(docker ps -af name=proxy -q)
+docker stop $(docker ps -af ancestor=jupyter/tmpnb -q );  docker rm $(docker ps -af ancestor=trytemp -q )
 docker pull jupyter/tmpnb
 docker build -f Dockerfile -t trytemp .
 export TOKEN=$( head -c 30 /dev/urandom | xxd -p )

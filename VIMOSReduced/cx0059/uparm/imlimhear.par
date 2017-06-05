@@ -1,0 +1,5 @@
+images,s,a,'VI_SEXM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi.fits',,,'image names'
+imlist,s,h,'*.imh,*.fits,*.pl,*.qp,*.hhh',,,'default image names'
+longheader,b,h,no,,,'print header in multi-line format'
+userfields,b,h,yes,,,'print the user fields (instrument parameters)'
+mode,s,h,'al'

@@ -1,0 +1,4 @@
+input,s,a,'VI_SSEM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi.fits',,,'Input images'
+output,s,a,'spq2.lis',,,'Output images or directory'
+verbose,b,h,yes,,,'Print operations performed?'
+mode,s,h,'ql'

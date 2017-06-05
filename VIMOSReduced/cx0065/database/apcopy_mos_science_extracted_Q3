@@ -1,0 +1,392 @@
+# Fri 17:22:22 20-Jan-2017
+begin	aperture copy_mos_science_extracted_Q3 1 1250. 16.15654
+	image	copy_mos_science_extracted_Q3
+	aperture	1
+	beam	1
+	center	1250. 16.15654
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	15
+		2.
+		11.
+		10.
+		2500.
+		0.1353851
+		-0.1676158
+		0.4826431
+		-0.4277204
+		0.3513235
+		-0.1620523
+		-0.01224239
+		0.1939341
+		-0.2689626
+		0.2045168
+		-0.139601
+
+# Fri 17:22:22 20-Jan-2017
+begin	aperture copy_mos_science_extracted_Q3 3 1250. 48.34399
+	image	copy_mos_science_extracted_Q3
+	aperture	3
+	beam	3
+	center	1250. 48.34399
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	17
+		2.
+		13.
+		10.
+		2500.
+		0.3038175
+		-0.7140716
+		0.6874785
+		-0.06184073
+		-0.4356352
+		0.4069713
+		-0.1267953
+		-0.2472145
+		0.4391614
+		-0.1187662
+		-0.3256946
+		0.244176
+		0.03680373
+
+# Fri 17:22:22 20-Jan-2017
+begin	aperture copy_mos_science_extracted_Q3 5 1250. 80.13848
+	image	copy_mos_science_extracted_Q3
+	aperture	5
+	beam	5
+	center	1250. 80.13848
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	21
+		2.
+		17.
+		10.
+		2500.
+		0.2408412
+		-0.5359478
+		0.7092506
+		-0.5016372
+		-0.01708904
+		0.3211248
+		-0.4044221
+		0.2985963
+		0.09967894
+		-0.3108986
+		0.1998481
+		-0.1630269
+		-0.06761932
+		0.3268518
+		-0.1953106
+		0.007146395
+		0.07430346
+
+# Fri 17:22:22 20-Jan-2017
+begin	aperture copy_mos_science_extracted_Q3 6 1250. 112.0864
+	image	copy_mos_science_extracted_Q3
+	aperture	6
+	beam	6
+	center	1250. 112.0864
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	17
+		2.
+		13.
+		10.
+		2500.
+		0.1189475
+		-0.2156243
+		0.5983809
+		-0.4578559
+		0.4027397
+		-3.467427E-4
+		-0.1388779
+		0.295866
+		-0.3033344
+		0.1278814
+		-0.03778676
+		-0.171644
+		0.2916687
+
+# Fri 17:22:22 20-Jan-2017
+begin	aperture copy_mos_science_extracted_Q3 11 1250. 131.9642
+	image	copy_mos_science_extracted_Q3
+	aperture	11
+	beam	11
+	center	1250. 131.9642
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	17
+		2.
+		13.
+		550.
+		1870.
+		-0.004888494
+		-0.1419874
+		0.08576115
+		-0.06448835
+		-0.01801631
+		0.1156517
+		-0.01909769
+		-0.05248179
+		0.01001683
+		0.01855351
+		-0.04135688
+		-0.0257677
+		0.04226011
+
+# Fri 17:22:22 20-Jan-2017
+begin	aperture copy_mos_science_extracted_Q3 7 1250. 156.1555
+	image	copy_mos_science_extracted_Q3
+	aperture	7
+	beam	7
+	center	1250. 156.1555
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	17
+		2.
+		13.
+		360.
+		2500.
+		0.07092566
+		0.2832156
+		-0.1122217
+		0.6241198
+		-0.6147493
+		0.8572185
+		-0.8485289
+		0.7911765
+		-0.8530115
+		0.727264
+		-0.6131719
+		0.4407082
+		-0.1784928
+
+# Fri 17:22:22 20-Jan-2017
+begin	aperture copy_mos_science_extracted_Q3 12 1250. 194.606
+	image	copy_mos_science_extracted_Q3
+	aperture	12
+	beam	12
+	center	1250. 194.606
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	17
+		2.
+		13.
+		140.
+		2500.
+		0.576552
+		-1.28734
+		1.843049
+		-1.631841
+		0.9824794
+		-0.313717
+		-0.2952884
+		0.6414533
+		-0.6271183
+		0.2630132
+		0.1858436
+		-0.7432076
+		1.046483
+
+# Fri 17:22:22 20-Jan-2017
+begin	aperture copy_mos_science_extracted_Q3 8 1250. 220.9617
+	image	copy_mos_science_extracted_Q3
+	aperture	8
+	beam	8
+	center	1250. 220.9617
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	17
+		2.
+		13.
+		10.
+		2500.
+		0.3344522
+		-0.5115058
+		0.8395811
+		-0.563967
+		0.1967041
+		0.3364697
+		-0.3756911
+		0.4173119
+		-0.1999989
+		-0.07868285
+		0.2961576
+		-0.1837263
+		-0.008107382
+
+# Fri 17:22:22 20-Jan-2017
+begin	aperture copy_mos_science_extracted_Q3 9 1250. 253.0349
+	image	copy_mos_science_extracted_Q3
+	aperture	9
+	beam	9
+	center	1250. 253.0349
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	17
+		2.
+		13.
+		10.
+		2500.
+		0.4536634
+		-0.8495176
+		1.05512
+		-0.5537405
+		-0.07364751
+		0.4305178
+		-0.3099855
+		0.04284313
+		0.2578161
+		-0.3129719
+		0.1038912
+		0.1424731
+		-0.2216978
+
+# Fri 17:22:22 20-Jan-2017
+begin	aperture copy_mos_science_extracted_Q3 10 1250. 284.8919
+	image	copy_mos_science_extracted_Q3
+	aperture	10
+	beam	10
+	center	1250. 284.8919
+	low	-1249. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	17
+		2.
+		13.
+		10.
+		2500.
+		0.2850197
+		-0.3060957
+		0.8410253
+		-0.5597657
+		0.3937658
+		0.1859139
+		-0.2196922
+		0.413699
+		-0.2873225
+		0.05962842
+		0.1800138
+		-0.2333916
+		0.2077954
+

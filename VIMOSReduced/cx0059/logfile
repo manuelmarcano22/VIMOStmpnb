@@ -1,0 +1,113 @@
+Jan 10 21:57: DATABASE  - 5 apertures read for last from database
+Jan 10 21:57: RECENTER  - 5 apertures shifted by -1.44 for last.
+Jan 10 21:57: RESIZE - 5 apertures resized for last
+Jan 10 21:57: TRACE - Trace of aperture 2 in last lost at line 40.
+Jan 10 21:57: TRACE - Trace of aperture 3 in last lost at line 40.
+Jan 10 21:57: TRACE - Trace of aperture 4 in last lost at line 40.
+Jan 10 21:57: TRACE - Trace of aperture 5 in last lost at line 40.
+Jan 10 21:57: TRACE - Trace of aperture 2 in last lost at line 50.
+Jan 10 21:57: TRACE - Trace of aperture 3 in last lost at line 50.
+Jan 10 21:57: TRACE - Trace of aperture 4 in last lost at line 50.
+Jan 10 21:57: TRACE - Trace of aperture 5 in last lost at line 50.
+Jan 10 21:57: TRACE - Trace of aperture 2 in last lost at line 60.
+Jan 10 21:57: TRACE - Trace of aperture 3 in last lost at line 60.
+Jan 10 21:57: TRACE - Trace of aperture 4 in last lost at line 60.
+Jan 10 21:57: TRACE - Trace of aperture 5 in last lost at line 60.
+Jan 10 21:57: TRACE - Trace of aperture 2 in last lost at line 30.
+Jan 10 21:57: TRACE - Trace of aperture 3 in last lost at line 30.
+Jan 10 21:57: TRACE - Trace of aperture 4 in last lost at line 30.
+Jan 10 21:57: TRACE - Trace of aperture 5 in last lost at line 30.
+Jan 10 21:57: TRACE - Trace of aperture 2 in last lost at line 20.
+Jan 10 21:57: TRACE - Trace of aperture 3 in last lost at line 20.
+Jan 10 21:57: TRACE - Trace of aperture 4 in last lost at line 20.
+Jan 10 21:57: TRACE - Trace of aperture 5 in last lost at line 20.
+Jan 10 21:57: TRACE - Trace of aperture 2 in last lost at line 10.
+Jan 10 21:57: TRACE - Trace of aperture 3 in last lost at line 10.
+Jan 10 21:57: TRACE - Trace of aperture 4 in last lost at line 10.
+Jan 10 21:57: TRACE - Trace of aperture 5 in last lost at line 10.
+Jan 10 21:57: TRACE - 5 apertures traced in last.
+Jan 10 21:58: DATABASE  - 5 apertures read for last from database
+Jan 10 21:58: RECENTER  - 5 apertures shifted by 0.15 for last.
+Jan 10 21:58: RESIZE - 5 apertures resized for last
+Jan 10 21:58: EDIT - 5 apertures edited for last
+Jan 10 21:58: EXTRACT - Aperture 1 from last --> last.ec
+Jan 10 21:58: EXTRACT - Aperture 2 from last --> last.ec
+Jan 10 21:58: EXTRACT - Aperture 3 from last --> last.ec
+Jan 10 21:58: EXTRACT - Aperture 4 from last --> last.ec
+Jan 10 21:58: EXTRACT - Aperture 5 from last --> last.ec
+Jan 10 21:59: DATABASE  - 5 apertures read for last from database
+Jan 10 21:59: RECENTER  - 5 apertures shifted by 0.00 for last.
+Jan 10 21:59: RESIZE - 5 apertures resized for last
+Jan 10 21:59: EDIT - 5 apertures edited for last
+
+SFIT: NOAO/IRAF V2.16 vimos@f88efd16ebd1 Tue 22:11:22 10-Jan-2017
+
+
+END: NOAO/IRAF V2.16 vimos@f88efd16ebd1 Tue 22:11:22 10-Jan-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@f88efd16ebd1 Tue 22:12:40 10-Jan-2017
+
+
+END: NOAO/IRAF V2.16 vimos@f88efd16ebd1 Tue 22:13:00 10-Jan-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@f88efd16ebd1 Tue 13:46:12 17-Jan-2017
+
+
+END: NOAO/IRAF V2.16 vimos@f88efd16ebd1 Tue 13:46:12 17-Jan-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 15:09:42 30-May-2017
+
+
+END: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 15:09:42 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 15:10:10 30-May-2017
+
+
+END: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 15:10:10 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 15:33:02 30-May-2017
+
+
+END: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 15:33:02 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 18:56:23 30-May-2017
+
+
+END: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 18:56:23 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 18:57:11 30-May-2017
+
+
+END: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 18:57:11 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 18:57:30 30-May-2017
+
+
+END: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 18:57:30 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 19:06:36 30-May-2017
+
+
+END: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 19:06:36 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 19:18:26 30-May-2017
+
+
+END: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 19:18:26 30-May-2017
+
+
+SFIT: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 19:54:38 30-May-2017
+
+
+END: NOAO/IRAF V2.16 vimos@marcanoserver-sfo2-01 Tue 19:54:38 30-May-2017
+

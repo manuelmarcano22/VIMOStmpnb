@@ -1,0 +1,27 @@
+# Mon 23:15:31 13-Mar-2017
+begin	aperture VI_SEXM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi 1 1249. 205.0091
+	image	VI_SEXM_575273_2011-05-26T05:19:50.824_G475_MR_202166_Q2_hi
+	aperture	1
+	beam	1
+	center	1249. 205.0091
+	low	-1248. -5.
+	high	1250. 5.
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	5
+		2.
+		1.
+		1.
+		2499.
+		0.
+
