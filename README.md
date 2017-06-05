@@ -13,6 +13,7 @@ To get your own Jupyter Notebook server can use:
 
 ## To-Do:
 
+- [ ] Cannot create a terminal. 
 - [ ] Use [tini](https://github.com/krallin/tini) to start Jupyter Notebooks
 - [ ] Trust Notebooks by default.
 - [ ] Get it to work with Apache Reverse Proxy for my Domain
