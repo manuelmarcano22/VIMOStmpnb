@@ -1,0 +1,78 @@
+# Sun 20:26:53 22-Jan-2017
+begin	aperture last 1 1249. 15.50309
+	image	last
+	aperture	1
+	beam	1
+	center	1249. 15.50309
+	low	-1248. -8.154295
+	high	1250. 16.03663
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	17
+		2.
+		13.
+		289.
+		2499.
+		-0.6716166
+		1.488139
+		-1.514626
+		0.5947325
+		0.9577084
+		-2.024941
+		2.154518
+		-1.158311
+		-0.5131399
+		2.048848
+		-2.78064
+		2.283932
+		-0.871347
+
+# Sun 20:26:53 22-Jan-2017
+begin	aperture last 2 1249. 65.13994
+	image	last
+	aperture	2
+	beam	2
+	center	1249. 65.13994
+	low	-1248. -11.18436
+	high	1250. 11.64762
+	background
+		xmin -10.
+		xmax 10.
+		function chebyshev
+		order 1
+		sample -10:-6,6:10
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	17
+		2.
+		13.
+		9.
+		2499.
+		0.08811743
+		-0.4759223
+		0.4108899
+		-0.2325062
+		-0.04369628
+		0.28123
+		-0.3046475
+		-0.003989165
+		0.3331546
+		-0.409694
+		0.2726424
+		0.01150106
+		-0.2239468
+

@@ -1,5 +1,5 @@
 # Tue 01:28:30 14-Mar-2017
-begin	aperture cx25sky 1 1250. 119
+begin	aperture cx25sexm 1 1250. 31.87886
 	image	cx25sky
 	aperture	1
 	beam	1

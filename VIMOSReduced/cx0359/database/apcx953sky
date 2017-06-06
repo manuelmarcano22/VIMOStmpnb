@@ -1,0 +1,27 @@
+# Tue 01:28:30 14-Mar-2017
+begin	aperture cx953sky 1 1250. 31
+	image	cx953sky
+	aperture	1
+	beam	1
+	center	1250. 31
+	low	-1249. -3.7
+	high	1250. 3.86
+	background
+		xmin 6
+		xmax 12
+		function chebyshev
+		order 1
+		sample 6:8,8:12
+		naverage -3
+		niterate 0
+		low_reject 3.
+		high_reject 3.
+		grow 0.
+	axis	2
+	curve	5
+		2.
+		1.
+		1.
+		2500.
+		0.
+
