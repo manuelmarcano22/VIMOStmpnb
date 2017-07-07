@@ -1,0 +1,16 @@
+iraf.onedspec()
+starsfile = 'stars/'
+for file in os.listdir(starsfile):
+    if file.endswith(".tfits"):
+        t = fits.open(starsfile+file)
+        data = t[1].data
+        waveall = data['Wave']
+        fluxall = data['Flux']
+        with open(starsfile+file.split('.')[0]+'.txt', 'w') as newfile:
+            for i in zip(waveall, fluxall):
+                newfile.write('{}\t{}\n'.format(i[0],i[1]))
+                
+for file in os.listdir(starsfile):
+    if file.endswith(".txt"):
+        iraf.rspectext(starsfile+file,starsfile+file.split('.')[0],dtype='interp')
+        
