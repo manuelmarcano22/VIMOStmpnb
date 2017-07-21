@@ -2,14 +2,14 @@
 ## hepsw/cc7-base is a WIP image for CERN CentOS-7
 ##
 FROM centos:7
-MAINTAINER Sebastien Binet "binet@cern.ch"
+#MAINTAINER Sebastien Binet "binet@cern.ch"
 
 # add CERN CentOS yum repo
-ADD http://linux.web.cern.ch/linux/centos7/CentOS-CERN.repo /etc/yum.repos.d/CentOS-CERN.repo
-ADD http://linuxsoft.cern.ch/cern/centos/7.1/os/x86_64/RPM-GPG-KEY-cern /tmp/RPM-GPG-KEY-cern
+#ADD http://linux.web.cern.ch/linux/centos7/CentOS-CERN.repo /etc/yum.repos.d/CentOS-CERN.repo
+#ADD http://linuxsoft.cern.ch/cern/centos/7.1/os/x86_64/RPM-GPG-KEY-cern /tmp/RPM-GPG-KEY-cern
 
-RUN /usr/bin/rpm --import /tmp/RPM-GPG-KEY-cern && \
-    /bin/rm /tmp/RPM-GPG-KEY-cern
+#RUN /usr/bin/rpm --import /tmp/RPM-GPG-KEY-cern && \
+#    /bin/rm /tmp/RPM-GPG-KEY-cern
 
 
 RUN yum update -y && \
@@ -50,8 +50,8 @@ ENV PATH /opt/conda/bin:$PATH
 ##Install
 ENV PATH /opt/conda/bin:$PATH
 
-RUN wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-9.noarch.rpm
-RUN rpm -ivh epel-release-7-9.noarch.rpm
+#RUN wget http://dl.fedoraproject.org/pub/epel/7/x86_64/e/epel-release-7-9.noarch.rpm
+#RUN rpm -ivh epel-release-7-9.noarch.rpm
 
 
 WORKDIR "/root"
