@@ -6,8 +6,16 @@ Currently at:
 
 http://vimos.manuelpm.me:8000/
 
+## Local Copy
 
-To get your own Jupyter Notebook server can use:
+To have a local working copy execute the build.sh file. 
+
+```bash
+chmod +x build.sh
+./build.sh
+```
+
+Or for a non-temporary Jupyter notebook server see: 
 
 [VIMOSDocker](https://github.com/manuelmarcano22/VIMOSDocker)
 
@@ -15,6 +23,5 @@ To get your own Jupyter Notebook server can use:
 
 - [ ] Cannot create a terminal. 
 - [ ] Use [tini](https://github.com/krallin/tini) to start Jupyter Notebooks
-- [ ] Trust Notebooks by default.
 - [ ] Get it to work with Apache Reverse Proxy for my Domain
 - 
