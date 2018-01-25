@@ -1,0 +1,16 @@
+/root/VIMOSReduced/cx0065/CX65.ipynb
+/root/VIMOSReduced/cx0253/CX253.ipynb
+/root/VIMOSReduced/cx0059/CX59.ipynb
+/root/VIMOSReduced/cx0967/CX967.ipynb
+/root/VIMOSReduced/cx0191/CX191.ipynb
+/root/VIMOSReduced/cx0371/set2/CX371.ipynb
+/root/VIMOSReduced/cx0738/CX738.ipynb
+/root/VIMOSReduced/cx0945/CX945.ipynb
+/root/VIMOSReduced/cx0925/CX925.ipynb
+/root/VIMOSReduced/cx0970/CX970.ipynb
+/root/VIMOSReduced/cx0359/CX359.ipynb
+/root/VIMOSReduced/cx0359/CX953.ipynb
+/root/VIMOSReduced/cx0025/CX25.ipynb
+/root/VIMOSReduced/cx0183/CX183.ipynb
+/root/VIMOSReduced/cx0719/CX719.ipynb
+/root/VIMOSReduced/cx0533/CX533.ipynb
