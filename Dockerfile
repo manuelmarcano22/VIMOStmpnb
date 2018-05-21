@@ -60,7 +60,11 @@ WORKDIR "/root"
 #RUN /opt/conda/bin/conda config --add channels http://ssb.stsci.edu/astroconda
 #RUN /opt/conda/bin/conda create -y -n iraf27 python=2.7 iraf pyraf Flask bokeh
 ADD environmentpyraf.yml	      /root/
+#ADD environmentpyraf.txt	      /root/
 RUN conda env create -f environmentpyraf.yml
+#RUN conda create -n iraf27 python=2.7 iraf-all pyraf-all stsci bokeh notebook ipykernel
+#RUN conda create -n iraf27 python=2.7 iraf-all pyraf-all stsci
+
 ADD VIMOSReduced /root/VIMOSReduced/
 
 

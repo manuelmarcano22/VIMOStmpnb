@@ -5,7 +5,7 @@ dependencies:
   - python = 2.7
   - bokeh >= 0.12.5
   - pyraf >= 2.1.11
-  - iraf  >= 2.16
+  - iraf  
   - notebook 
   - ipykernel 
   - pip:
